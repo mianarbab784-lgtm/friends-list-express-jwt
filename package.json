@@ -1,0 +1,17 @@
+{
+  "name": "friends-list-express-jwt",
+  "version": "1.0.0",
+  "description": "Friends List Application using Express and JWT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
